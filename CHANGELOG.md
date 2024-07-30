@@ -10,6 +10,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 To see unreleased changes, please see the [CHANGELOG on the main branch guide](https://github.com/gufolabs/gufo_snmp/blob/main/CHANGELOG.md).
 
+## 0.5.2 - 2024-07-30
+
+### Added
+* `SnmpAuthError` is exposed to `gufo.snmp` root module.
+
+### Infrastructure
+
+* Rust 1.80.0
+
 ## 0.5.1 - 2024-02-28
 
 ### Added
